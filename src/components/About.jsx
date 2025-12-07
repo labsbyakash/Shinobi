@@ -119,7 +119,7 @@ const About = () => {
                 A <b>Full Stack Developer</b> crafting digital experiences that
                 blend form and function. I don't just write code; I build
                 solutions. My approach combines the precision of backend logic
-                with the creativity of frontend design. Then Boom!
+                with the creativity of frontend design.
               </p>
             </div>
             <div className="mt-8">
