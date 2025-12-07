@@ -2,7 +2,7 @@
 
 Welcome to the repository for my portfolio! This project is a showcase of my skills, creativity, and passion for front-end development, user experience design, and app development, sprinkled with a touch of machine learning and storytelling. 
 
-**Visit - [Click Here](https://devakashsharma.netlify.app/)**
+**Visit Portfolio - [Click Here](https://devakashsharma.netlify.app/)**
 
 ## Overview
 This portfolio is built using:
@@ -52,3 +52,5 @@ If you have any suggestions or feedback, feel free to connect with me:
 ---
 
 Thank you for visiting my portfolio repository! 🚀
+
+If like? Give me a 🌟
