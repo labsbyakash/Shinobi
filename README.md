@@ -46,8 +46,8 @@ If you have any suggestions or feedback, feel free to connect with me:
 
 - **Email**: devakashsharma@outlook.com
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/akash-sharma-1b7a73240)
-- **Instagram**: [Click Here](https://www.instagram.com/itz____akash01/)
-- **GitHub**: [Click Here](https://github.com/devakashsharma/)
+- **Instagram**: [Click Here](https://www.instagram.com/justakash_02/)
+- **GitHub**: [Click Here](https://github.com/labsbyakash/)
 
 ---
 

@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import emailjs from "@emailjs/browser";
@@ -6,8 +6,6 @@ import {
   FaInstagram,
   FaGithub,
   FaLinkedin,
-  FaTwitter,
-  FaTimes,
 } from "react-icons/fa";
 import { SiLeetcode, SiRoadmapdotsh } from "react-icons/si";
 
@@ -21,7 +19,7 @@ const socialMedia = [
   },
   {
     icon: FaGithub,
-    url: "https://github.com/devakashsharma",
+    url: "https://github.com/labsbyakash",
     color: "text-gray-800",
   },
   {
@@ -113,7 +111,7 @@ const ContactForm = () => {
         },
         "SDhhAOkaBnNh97eIU"
       )
-      .then((response) => {
+      .then(() => {
         setSubmitStatus({
           status: "success",
           message: "Message sent successfully!",
@@ -141,11 +139,11 @@ const ContactForm = () => {
           className="w-full md:w-1/2 md:pr-12 poppins text-center md:text-left mb-12 md:mb-0"
         >
           <h2 className="text-5xl font-bold mb-6 text-gray-800">
-            Let's Work Together
+            Let&apos;s Work Together
           </h2>
           <p className="text-lg text-gray-600 leading-relaxed mb-3">
-            Have a project in mind? I'd love to hear about it. Send me a
-            message, and let's create something amazing.
+            Have a project in mind? I&apos;d love to hear about it. Send me a
+            message, and let&apos;s create something amazing.
           </p>
 
           {/* Social Media Links */}

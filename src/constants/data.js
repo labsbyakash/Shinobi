@@ -110,7 +110,7 @@ export const projects = [
       "Real Estate Management App built with React Native and Appwrite.",
     image: "./img/project1.png",
     technologies: ["React Native", "Appwrite"],
-    githubLink: "https://github.com/devakashsharma/ReState",
+    githubLink: "https://github.com/labsbyakash/ReState",
   },
   {
     id: 2,
@@ -119,7 +119,7 @@ export const projects = [
       "Modern UI Clone showcasing React, Tailwind CSS, and GSAP skills.",
     image: "./img/project2.png",
     technologies: ["React", "Tailwind", "GSAP"],
-    githubLink: "https://github.com/devakashsharma/Zentry",
+    githubLink: "https://github.com/labsbyakash/Zentry",
   },
   {
     id: 3,
@@ -128,7 +128,7 @@ export const projects = [
       "Real-time Chat Application powered by React Native and Firebase.",
     image: "./img/project3.png",
     technologies: ["React Native", "Firebase"],
-    githubLink: "https://github.com/devakashsharma/Chatify",
+    githubLink: "https://github.com/labsbyakash/Chatify",
   },
   {
     id: 4,
@@ -136,7 +136,7 @@ export const projects = [
     description: "A locally run chatbot that demonstrates the power of LLMs",
     image: "./img/project4.png",
     technologies: ["Python", "LLaMA3", "Ollama"],
-    githubLink: "https://github.com/devakashsharma/Nexus-2.0",
+    githubLink: "https://github.com/labsbyakash/Nexus-2.0",
   },
   {
     id: 5,
@@ -144,7 +144,7 @@ export const projects = [
     description: "This project is a GUI for an image classification model.",
     image: "./img/project5.png",
     technologies: ["Python", "Taipy", "TensorFlow"],
-    githubLink: "https://github.com/devakashsharma/VisionNote-V2",
+    githubLink: "https://github.com/labsbyakash/VisionNote-V2",
   },
 ];
 

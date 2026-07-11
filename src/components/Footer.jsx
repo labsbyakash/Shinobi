@@ -1,9 +1,9 @@
-import React from "react";
-import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
+// import React from "react";
+import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 import { SiLeetcode, SiRoadmapdotsh } from "react-icons/si";
 
 const Footer = () => {
-  const currentYear = new Date().getFullYear();
+  // const currentYear = new Date().getFullYear();
 
   return (
     <footer className="bg-gradient-to-r from-gray-900 to-black text-white py-10">
@@ -22,7 +22,7 @@ const Footer = () => {
                 },
                 {
                   Icon: FaGithub,
-                  url: "https://github.com/devakashsharma",
+                  url: "https://github.com/labsbyakash",
                 },
                 {
                   Icon: FaLinkedin,
