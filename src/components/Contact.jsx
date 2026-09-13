@@ -24,7 +24,7 @@ const socialMedia = [
   },
   {
     icon: FaLinkedin,
-    url: "https://www.linkedin.com/in/akash-sharma-1b7a73240",
+    url: "https://www.linkedin.com/in/labsbyakash/",
     color: "text-blue-600",
   },
   //   {
